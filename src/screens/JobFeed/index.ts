@@ -1,0 +1,1 @@
+export { JobFeed } from "./JobFeed";
