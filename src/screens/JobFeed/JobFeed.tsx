@@ -1,14 +1,11 @@
 /**
  * JobFeed Component
  * 
- * The main job feed page that displays available job opportunities and related information.
- * The layout consists of:
  * - Navigation bar at the top
  * - Main content area showing job listings
  * - Sidebar with additional filters and information
  * - Footer at the bottom
  * 
- * The component uses a responsive layout with:
  * - Flexible main content area
  * - Fixed-width sidebar (290px)
  * - Proper spacing and padding

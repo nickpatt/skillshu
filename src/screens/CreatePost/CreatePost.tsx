@@ -40,14 +40,14 @@ type PostFormData = z.infer<typeof postSchema>;
 /**
  * CreatePost Component
  * 
- * A comprehensive form component for creating new job posts. Features include:
+ *
  * - Basic post information (title, description, rate, location)
  * - Skills management with add/remove functionality
  * - Image upload with preview and validation
  * - Form validation using Zod schema
  * - Integration with Supabase for data storage
  * 
- * The component includes:
+ * 
  * - File upload handling with size and type validation
  * - Skills management with tag-like interface
  * - Responsive form layout
@@ -55,7 +55,7 @@ type PostFormData = z.infer<typeof postSchema>;
  * - Loading states during submission
  * - Automatic navigation after successful post creation
  * 
- * File Upload Features:
+ * 
  * - Maximum file size: 5MB
  * - Supported formats: JPG, PNG, WebP
  * - Multiple file upload support

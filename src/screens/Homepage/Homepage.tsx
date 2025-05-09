@@ -1,8 +1,6 @@
 /**
  * Homepage Component
  * 
- * The main landing page of the application that showcases the platform's key features
- * and services. It consists of several sections:
  * - Navigation: Main navigation bar
  * - Main Content: Hero section with primary messaging
  * - Popular Services: Display of featured services
